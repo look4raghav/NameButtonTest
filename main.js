@@ -1,0 +1,4 @@
+.nameContainer {
+  text-align: center;
+}
+
